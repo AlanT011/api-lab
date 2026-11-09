@@ -1,5 +1,7 @@
 # api-lab
 
+Link: https://github.com/AlanT011/api-lab.git
+
 ## Input Domain Model for POST /api/ratings
 
 A valid request requires an integer number of stars from 1 to 5,
